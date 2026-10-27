@@ -1,0 +1,10 @@
+.venv/
+.env
+
+# .gitignore
+
+# git init
+# git add .
+# git commit -m "Python basics"
+# git remote add origin https://github.com/walteranyika/Intro-to-python.git
+# git push -u origin master
