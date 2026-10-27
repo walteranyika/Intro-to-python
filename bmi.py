@@ -6,8 +6,8 @@
 # • Obesity (Class II): 35.0 to 39.9
 # • Severe Obesity (Class III): 40.0 or higher
 
-weight = input("Please enter your weight in Kgs:") #"67", 67.5
-height = input("Please enter your height in m:")
+weight = input("Please enter your weight in Kilograms:") #"67", 67.5
+height = input("Please enter your height in Meters:")
 
 w = float(weight)
 h = float(height)
@@ -25,8 +25,3 @@ elif 35 <= bmi <= 39.9:
     print("You are obese class 2")
 else:
     print("You are obese class 3")
-
-
-# git init
-# git add .
-# 
